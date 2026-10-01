@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://craftsmanstage.github.io/sitemap.xml
